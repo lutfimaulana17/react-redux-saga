@@ -62,3 +62,22 @@
   right: 0px;
   color: #fff;
 }
+
+/* product ui style */
+.product-container{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-item {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 20px;
+}
+/* end product ui style */
+
+.logo {
+  float: left;
+  margin: 0;
+  padding: 20px;
+}
